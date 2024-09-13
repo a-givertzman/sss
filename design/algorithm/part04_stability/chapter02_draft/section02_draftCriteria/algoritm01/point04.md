@@ -1,4 +1,2 @@
 #### Максимальный дифферент ([п.2.3.2 Части 5. Деления на отсеки Правил МС](/reference/RMRS/Rules/classification_&_construction_of_ships_&_offshore_installations/Ships_(primary_group)/Sea-Going_Ships/2-020101-174-5_subdivision.pdf#page=17))
 Текущий дифферент не должен превышать минимально и максимально допустимый дифферент с точки зрения расчета вероятностного индекса деления на отсеки.
-
-reference\RMRS\Rules\classification_&_construction_of_ships_&_offshore_installations\Ships_(primary_group)\Sea-Going_Ships\2-020101-174-5_subdivision.pdf
