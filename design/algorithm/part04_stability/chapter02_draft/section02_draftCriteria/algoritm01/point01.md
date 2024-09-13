@@ -1,0 +1,2 @@
+#### Осадка по грузовой марке ([правило 40 LL-66/88](/reference/IMO/internationalConvention/LL_66_88.pdf#=118), [п.4.5 Руководства LL-66/88](/reference/RMRS/Guidelines/Ships&offshoreInstallations/2-030101-046_LL_66_88.pdf#page=65))    
+Осадка на миделе судна правого и левого борта не должна превышать грузовую марку для текущего района плавания.
