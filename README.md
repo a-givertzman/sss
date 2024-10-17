@@ -31,6 +31,9 @@ Suggestion of the struct
 └── ...
 ```
 
+
+```text
+.
 assets/
 ├── fleet/                     # all ships datasets all ships
 |   ├── {numberIMO}_{shipName}    # for ship #1   
@@ -66,3 +69,4 @@ assets/
 |   |   └── ...
 |   └── ...
 └── ...
+```
