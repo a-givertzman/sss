@@ -57,7 +57,7 @@ assets/
 |   |   └── ...                  # etc  
 |   └── ...                  # etc  
 ├── images/                   # Images 
-|   ├── programSheets/           # all images of program screen   
+|   ├── program_sheets/           # all images of program screen   
 |   |   ├── sheet1_mainScreen       # images of main screen 
 |   |   |   ├── image_1.png            # images #1 of main screen
 │   |   |   ├── image_2.jpeg           # images #2 of main screen
