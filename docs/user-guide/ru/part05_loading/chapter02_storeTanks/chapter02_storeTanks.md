@@ -1,5 +1,5 @@
 ## Цистерны запаса
-![Общий вид вкладки "Цистерны запаса"](/assets/image/program_sheets/sheet05_loading/tab02_storeTanks/storeTanks.png "Общий вид страницы 'Цистерны запаса'")
+![Общий вид вкладки "Цистерны запаса"](/assets/image/program_sheets/ru/sheet05_loading/tab02_storeTanks/storeTanks.png "Общий вид страницы 'Цистерны запаса'")
 
 Вкладка предназначена для задания данных по цистернам запаса.
 
