@@ -24,8 +24,8 @@
 | 118 | Осадка по лесную зимнюю ГВЛ в Северной Атлантике ГВЛ ЛБ </p><p> Winter North Atlantic timber LL draft PS  | [м] </p><p> [m]                         |
 | 119 | Осадка по лесную тропическую ГВЛ ПрБ </p><p> Tropical timber LL draft SB                                  | [м] </p><p> [m]                         |
 | 120 | Осадка по лесную тропическую ГВЛ ЛБ </p><p> Tropical timber LL draft PS                                   | [м] </p><p> [m]                         |
-| 121 | Осадка по лесную летнюю ГВЛ в пресной воде ПрБ </p><p> Fresh water timber LL draft SB                     | [м] </p><p> [m]                         |
-| 122 | Осадка по лесную летнюю ГВЛ в пресной воде ЛБ </p><p> Fresh water timber LL draft PS                      | [м] </p><p> [m]                         |
+| 121 | Осадка по лесную летнюю ГВЛ в пресной воде ПрБ </p><p> Fresh water timber LL draft in summer SB           | [м] </p><p> [m]                         |
+| 122 | Осадка по лесную летнюю ГВЛ в пресной воде ЛБ </p><p> Fresh water timber LL draft in summer PS            | [м] </p><p> [m]                         |
 | 123 | Осадка по лесную тропическую ГВЛ в пресной воде ПрБ </p><p>  Tropical fresh water timber LL draft SB      | [м] </p><p> [m]                         |
 | 124 | Осадка по лесную тропическую ГВЛ в пресной воде ПрБ ЛБ </p><p> Tropical fresh water timber LL draft PS    | [м] </p><p> [m]                         |
 | 125 | Осадка по ГВЛ Р1 (резерв) </p><p> LL draft SI1 (reserve)                                                  | [м] </p><p> [m]                         |
