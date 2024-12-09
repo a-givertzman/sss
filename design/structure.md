@@ -5,51 +5,47 @@
 Ship {
     ///
     /// Словесное описание судна
-    /// ISO 10303-2016-2003 [4.2.52.1]((/reference/en/ISO/ISO%2010303-216-2003.pdf#page=83))
+    /// ISO 10303-2016-2003 [4.2.52.1](/reference/en/ISO/ISO%2010303-216-2003.pdf#page=83)
     Description{
     }
     ///
-    /// Наименование
+    /// Наименование судна (серии, систершипов) или конкретного судна
     Name{
         "Ship name"
     }
     ///
-    /// документация
+    /// документация 
     ExternalReference{
     }
     ///
     /// Номер идентификационный
     GlobalId{}
     ///
-    /// Или Ship_moulded_form или Moulded_form
-    ShipItems {
-        Arangement {
-            BallastTanks {
-                Tank {
-                    Properties {}
-                },
-                Tank {
-                    Properties {}
-                },
-                Tank {},
-                Tank {},
-                ...
-            }
-        }
-    }
-    ///
     /// один корпус или несколько
     SingleHullOrClass{
         "multiple / single"
     }
     ///
+    /// Общее расположение
+    /// [ISO 10303-2016-2003](/reference/en/ISO/ISO%2010303-215-2004.pdf)
+    Ship_arrangement{
+
+    }
     ///
-    ShipToDerivedUnit (as units)
+    /// Теоретические поверхности
+    /// [ISO 10303-2016-2003](/reference/en/ISO/ISO%2010303-216-2003.pdf)
+    Ship_Moulded_Forms{
+    }
     ///
-    ///
-    ShipToNamedUnit (as units)
+    /// Конструкция корпуса
+    /// [ISO 10303-2018-2003](/reference/en/ISO/ISO%2010303-218-2004.pdf)
+    Ship_Structures{
+    }
 }
 ```
+
+
+
 
 ```mermaid
 flowchart LR
