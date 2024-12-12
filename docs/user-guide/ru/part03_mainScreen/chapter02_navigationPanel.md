@@ -2,7 +2,7 @@
 В верхней части панели навигации размещена кнопка "Запустить вычисления". При нажатии на кнопку производится запуск расчета. После окончания расчета все данные по судну на всех страницах программы обновятся. 
 
 Ниже размещены кнопки переключение между страницами программы:
-- [Информация](/docs/user-guide/ru/part04_shipInfo/part03_shipInfo.md);
+- [Информация](/docs/user-guide/ru/part04_Info/part03_shipInfo.md);
 - [Загрузка](/docs/user-guide/ru/part05_loading/part05_loading.md);
 - [Осадки](/docs/user-guide/ru/part06_draft/part06_draft.md);
 - [Прочность](/docs/user-guide/ru/part07_strength/part07_strength.md);
