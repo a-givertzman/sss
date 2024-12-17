@@ -7,10 +7,9 @@
 - статус выполнения критерия для текущей загрузки. 
   
 Перечень рассчитываемых критериев приведен в таблице. Перечень критериев, предъявляемых к судну в зависимости от заданного груза определяется автоматически. Критерии рассчитываются в соответствии с правилами РМРС:
-- [1]	Правила классификации и постройки морских судов, часть IV «Остойчивость», [НД № 2-020101-174-4](/reference/RMRS/Rules/classification_&_construction_of_ships_&_offshore_installations/Ships_(primary_group)/Sea-Going_Ships/2-020101-174-4_stability.pdf), РМРС, 2024 г;
-- [2]	Правила перевозки зерна, [НД №2-020101-013-E](/reference/RMRS/Rules/different_types_of_ships/2-020101-013-E.pdf), РМРС, 2006 г;
-- [3]	Правила классификации и постройки морских судов, часть V «Деление на отсеки», [НД № 2-020101-174-5](/reference/RMRS/Rules/classification_&_construction_of_ships_&_offshore_installations/Ships_(primary_group)/Sea-Going_Ships/2-020101-174-5_subdivision.pdf), РМРС, 2024 г.
-
+- [1] [Правила классификации и постройки морских судов, часть IV «Остойчивость», НД № 2-020101-174-4, РМРС, 2024 г](/reference/ru/RMRS/Rules/classification_&_construction_of_ships_&_offshore_installations/Ships_(primary_group)/Sea-Going_Ships/2-020101-174-4_stability.pdf);
+- [2] [Правила перевозки зерна, НД №2-020101-013-E, РМРС, 2006 г](/reference/ru/RMRS/Rules/different_types_of_ships/2-020101-013-E.pdf);
+- [3] [Правила классификации и постройки морских судов, часть V «Деление на отсеки»,НД № 2-020101-174-5, РМРС, 2024 г](/reference/ru/RMRS/Rules/classification_&_construction_of_ships_&_offshore_installations/Ships_(primary_group)/Sea-Going_Ships/2-020101-174-5_subdivision.pdf).
 
 | №   | Наименование сокращенное                              | Размерность | Правило                          |
 | --- | ----------------------------------------------------- | ----------- | -------------------------------- |
