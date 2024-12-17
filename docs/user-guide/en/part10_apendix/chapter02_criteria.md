@@ -54,4 +54,4 @@
 | 147 | Screw immersion PS                               | [%]       |
 | 148 | Screw immersion (reserve)                        | [%]       |
 | 149 | Screw immersion (reserve)                        | [%]       |
-| 150 | Reserve buoyancy in bow                          | $[m_2]$   |
+| 150 | Reserve buoyancy in bow                          | $[m^2]$   |
