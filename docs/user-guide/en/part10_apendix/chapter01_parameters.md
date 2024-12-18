@@ -96,3 +96,6 @@
 | 93  | Draft fwd at marks mean                                     | [m]       |
 | 94  | Draft at midship                                            | [m]       |
 | 95  | Correction to transverse metacentric height                 | [m]       |
+| 96  | Vertical center of gravity of deadweight                    | [m]       |
+| 97  | Transverse center of gravity of deadweight                  | [m]       |
+| 98  | Longitudinal center of gravity of deadweight                | [m]       |
