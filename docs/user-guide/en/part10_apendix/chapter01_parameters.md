@@ -28,7 +28,7 @@
 | 25  | Weight of ballast                                           | [t]       |
 | 26  | Weight of stores                                            | [t]       |
 | 27  | Weight of cargo                                             | [t]       |
-| 28  | Volume or deadweight                                        | [t]       |
+| 28  | Volume of deadweight                                        | [t]       |
 | 29  | Weight of lightship                                         | [t]       |
 | 30  | Weight of icing                                             | [t]       |
 | 31  | Weight of wetting timber deck cargo                         | [t]       |
