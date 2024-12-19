@@ -1,0 +1,2 @@
+### Purpose of the program
+The software as a cargo computer is designed to create and store a ship's cargo plan, calculate landing characteristics, stability, shear forces and bending moments in calm water, as well as compare them with acceptable values.

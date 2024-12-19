@@ -1,0 +1,11 @@
+### Program functions
+- assignment by the operator and storage of the ship's cargo plan for different types of cargo (containers, general cargo, bulk cargo, stores, liquids in tanks, taking into account density);
+- assignment by the operator and storage of voyage and their accounting in the preparation of the cargo plan and calculations. Accounting for the icing of the vessel and deck cargo, the density of seawater, the navigation area;
+- calculation of the mass of the ship and the position of its center of gravity;
+- calculation of the characteristics of the ship draft and comparison with acceptable values (including the rules of load line marks, requirements for deepening the screws);
+- calculation of stability characteristics and comparison with acceptable values in accordance with the rules of the Russian Maritime Register of Shipping and the Russian Classification Society (hereinafter the Classification Society);
+- calculation of the dependence of shearing forces and bending moments along the length of the ship and comparing them with acceptable ones;
+- calculation of stability characteristics and comparison with acceptable values in accordance with the rules of the Russian Maritime Register of Shipping and the Russian Classification Society (hereinafter the Classification Society);
+- calculation of the dependence of shearing forces and bending moments along the length of the vessel and comparing them with acceptable ones;
+- assessment of emergency stability according to the curve of the minimum permissible metacentric height;
+- generation of accounting documentation.

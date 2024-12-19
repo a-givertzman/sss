@@ -1,0 +1,5 @@
+## A field with a diagram of the total longitudinal strength
+A diagram of the total longitudinal strength is shown in the middle part. For each formation evenly distributed along the length of the vessel, the shearing force or bending moment is displayed as a percentage (based on which parameter has a higher percentage), which is the calculated value of the permissible value. If the calculated value exceeds the permissible value by more than 100% (marked on the diagram with a horizontal orange line) The corresponding column is colored with an orange shaded area.
+![Exceeding the permissible strength](/assets/image/program_sheets/en/sheet03_mainScreen/strength_overLim.PNG "Exceeding the permissible strength")
+
+More detailed information on the overall longitudinal strength of the vessel can be found on the page ["Strength"](/docs/user-guide/en/part07_strength/part07_strength.md).
