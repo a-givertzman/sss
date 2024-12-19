@@ -1,30 +1,30 @@
-## Навалочный груз
-![Общий вид вкладки "Навалочный груз"](/assets/image/program_sheets/ru/sheet05_loading/tab06_bulkCargo/bulkCargo.png "Общий вид страницы 'Навалочный груз'")
-Окно предназначено для задания данных по навалочным грузам, размещаемым в трюме. Задание такого груза для трюма производится  через удельный погрузочный объем.
+## bulk cargo
+![General view of the tab "bulk cargo"](/assets/image/program_sheets/en/sheet05_loading/tab06_bulkCargo/bulkCargo.png "General view of the tab 'bulk cargo'")
+The window is designed to set data on bulk cargoes placed in the hold. The assignment of such cargo for the hold is made through the stowage factor (SF).
 
-При задании данных по навалочному грузу может быть учтено разделение трюма переборками для сыпучих грузов. Для этого в специальном окне "Зерновые переборки" необходимо задать места установки переборок для сыпучих грузов. После сохранения данных в окне "Зерновые переборки" трюм автоматически разделится на отсеки, при этом все необходимые параметры для расчетов будут определяться автоматически.
+When specifying bulk cargo data, the separation of the hold by bulkheads for bulk cargo can be taken into account. To do this, in the special "Grain bulkheads" window, you need to specify the installation locations of bulkheads for bulk cargo. After saving the data in the Grain Bulkheads window, the hold will be automatically divided into compartments, while all the necessary parameters for calculations will be determined automatically.
 > [!CAUTION]
-> Все данные по грузу для трюма, для которого были изменены положения переборок для сыпучих грузов, будут удалены после сохранения!
+> All cargo data for the hold for which the bulkhead positions for bulk cargo have been changed will be deleted after saving!
 
-![Общий вид вкладки "Зерновые переборки"](/assets/image/program_sheets/ru/sheet05_loading/tab06_bulkCargo/bulkheads.png "Зерновые переборки'")
+![General view of the tab "Bulkheads"](/assets/image/program_sheets/en/sheet05_loading/tab06_bulkCargo/bulkheads.png "General view of the tab 'Bulkheads'")
 
-Для каждого трюма (или его составных частей) необходимо задать данные столбцов "М [т]", "V $[м^3]$", "УПО $[м^3/т]$", "%", "Сыпучий груз". При этом реализована следующая логика изменения данных параметров:
-- при изменении %
-  - не пересчитывается УПО;
-  - пересчитываются V и М;
-- при изменении V
-  - не пересчитывается УПО;
-  - пересчитываются % и M;
-- при изменении M 
-  - не пересчитывается УПО;
-  - пересчитываются % и V;
-- при изменении УПО
-  - не пересчитывается V;
-  - пересчитываются % и M.
+For each hold (or its component parts), you must specify the data of the columns "M[t]", "V$[m^3]$", "UPO $[m^3/t]$", "%", "Bulk cargo". At the same time, the following logic of changing these parameters is implemented:
+- when changing %
+ - the SF is not recalculated;
+ - V and M are recalculated;
+- when changing V
+ - the SF is not recalculated;
+ - % and M are recalculated;
+- when changing M 
+ - the SF is not recalculated;
+ - % and V are recalculated;
+- when changing the SF
+ - not recalculated V;
+ - % and M are recalculated.
 
-В столбце "Смещаемый груз" может быть проставлен признак для груза в каждом трюме (части трюма). Если такой признак проставлен хотя бы для одной части трюма, при проверке критериев остойчивости проверяются требования как для судна перевозящего зерно, а именно:
-- проверяется критерий угла крена от смещения зерна;
-- проверяется критерий остаточной площади ДСО;
-- метацентрическая высота должна быть более 0.30 м.
+In the column "Shifting cargo", a sign can be placed for the cargo in each hold (part of the hold). If such a sign is affixed to at least one part of the hold, when checking the stability criteria, the requirements for a vessel carrying grain are checked, namely:
+- the criterion of the roll angle from grain displacement is checked;
+- the criterion of the remaining area of the static stability curve is checked;
+- the metacentric height should be more than 0.30 m.
 > [!WARNING]
-> Зерновой момент от смещения зерна определяется только для того груза, для которого проставлен признак "Смещаемый груз"!
+> The grain moment from the displacement of the grain is determined only for the cargo for which the "Shifting cargo" sign is affixed!

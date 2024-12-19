@@ -1,33 +1,32 @@
-## Прочие запасы
-![Общий вид вкладки "Прочие запасы"](/assets/image/program_sheets/ru/sheet05_loading/tab04_stores/stores.png "Общий вид страницы 'Прочие запасы'")
+## Stores
+![General view of the tab "Stores"](/assets/image/program_sheets/en/sheet05_loading/tab04_stores/stores.png "General view of the tab 'Stores'")
 
-Окно предназначено для задания данных по твердым запасам и состоит из:
-- изображения трех проекций судна и расположения запасов;
-- таблицы с информацией по запасам.
+The window is designed to set data on solid stocks and consists of:
+- images of three projections of the vessel and the location of stocks;
+- tables with information on stocks.
 
-### Изображение судна и запасов
-Проекции судна и работа с изображением аналогична вкладке ["Балластные цистерны"](/docs/user-guide/ru/part05_loading/chapter02_ballast/chapter02_ballast.md). Запасы на проекциях судна обозначаются в виде квадрата с горизонтальным отрезком расположенным вдоль корпуса. Квадратом изображено положение центра тяжести запаса, отрезком - его протяженность вдоль оси судна.
+### Image of the ship and stocks
+The tab is similar to the tab ["Ballast tanks"](/docs/user-guide/en/part05_loading/chapter02_ballast/chapter02_ballast.md). Stores on the projections of the vessel are indicated in the form of a square with a horizontal segment located along the hull. The square shows the position of the center of gravity of the reserve, the segment shows its length along the axis of the vessel.
 
-### Таблица с информацией по запасам
-По запасам необходимо ввести следующие данные в соответствии с таблицей.
-| Столбец   | Описание                 | Примечание                             |
-| --------- | ------------------------ | -------------------------------------- |
-| б/н       | Цвет запаса              | Все запасы отмечены серым цветом       |
-| Имя       | Наименование запаса      |                                        |
-| Масса [т] | Масса                    |                                        |
-| $x_g$ [м] | Абсцисса центра тяжести  | В связанной с судном системе координат |
-| $y_g$ [м] | Ордината центра тяжести  | В связанной с судном системе координат |
-| $z_g$ [м] | Аппликата центра тяжести | В связанной с судном системе координат |
-| X1 [м]    | Кормовая граница груза   | В связанной с судном системе координат |
-| X2 [м]    | Носовая граница груза    | В связанной с судном системе координат |
+### A table with information on stocks
+| Column     | Description                       | Note                                  |
+| ---------- | --------------------------------- | ------------------------------------- |
+| w/n        | Stock color                       | All stocks are marked in gray         |
+| Name       | Name of the stock                 |                                       |
+| Weight [t] | Weight                            |                                       |
+| $x_g$ [m]  | Abscissa of the center of gravity | In the ship-related coordinate system |
+| $y_g$ [m]  | Ordinate of the center of gravity | In the ship-related coordinate system |
+| $z_g$ [m]  | Center of gravity application     | In the ship-related coordinate system |
+| X1 [m]     | Aft cargo boundary                | In the ship-related coordinate system |
+| X2 [m]     | The forward boundary of the cargo | In the ship-related coordinate system |
 
-Для добавления запаса необходимо нажать на кнопку "Добавить" в верхней части таблицы. Во всплывающем окне необходимо ввести необходимую информацию, приведенную в таблице.
-При вводе значений применяются следующие ограничения на ввод, которые отображаются оранжевым цветом при введении:
-- $x_g$ должна быть между X1 и X2;
-- X1 должна быть меньше X2;
-- масса должна быть положительной.
+To add a stock, click on the "Add" button at the top of the table. In the pop-up window, you must enter the necessary information given in the table.
+When entering values, the following input restrictions apply, which are displayed in orange when entering:
+- $x_g$ must be between X1 and X2;
+- X1 must be less than X2;
+- the mass must be positive.
 
-Для удаление запаса необходимо выбрать соответствующую строку и нажать "Удалить" в верхней части таблицы.
+To delete a stock, select the appropriate row and click "Delete" at the top of the table.
 
-Для корректировки запаса необходимо выбрать соответствующую строку и нажать "Корректировать" в верхней части таблицы. Корректировка также доступна из таблицы.
-![Общий вид вкладки "Добавление запасов"](/assets/image/program_sheets/ru/sheet05_loading/tab04_stores/addStores.png "Общий вид страницы 'Добавление запасов'")
+To adjust the stock, select the appropriate row and click "Adjust" at the top of the table. The adjustment is also available from the table.
+![General view of the tab "Add stores"](/assets/image/program_sheets/ru/sheet05_loading/tab04_stores/addStores.png "General view of the tab 'Add stores'")

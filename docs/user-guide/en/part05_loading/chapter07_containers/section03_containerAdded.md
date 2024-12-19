@@ -1,47 +1,47 @@
-### Добавление контейнеров
-![Общий вид вкладки "Добавление контейнеров"](/assets/image/program_sheets/ru/sheet05_loading/tab07_containers/container_added.png "Общий вид страницы 'Добавление контейнеров'")
-Для того чтобы добавить контейнер в список доступных для размещения на судне необходимо нажать на кнопку "Добавить". В открывшемся окне необходимо задать данные, размещенные в левом столбце, в соответствии с таблицей:
-| №   | Наименование              | Определение                                         | Обязательное | Формат            | Значение по умолчанию      |
-| --- | ------------------------- | --------------------------------------------------- | ------------ | ----------------- | -------------------------- |
-| 1   | Длина                     | Габаритная длина контейнера                         | да           | выпадающий список | 20 ft                      |
-| 2   | Высота                    | Габаритная высота контейнера                        | да           | выпадающий список | Стандартный                |
-| 3   | Код типа                  | Код типа и основной характеристики типа             | нет          | два символа       | GP                         |
-|     |                           |                                                     |              |                   |                            |
-| 4   | Масса брутто              | Масса перевозимого контейнера с грузом              | да           | Число             | -                          |
-| 5   | Максимальная масса брутто | Максимально допустимая масса контейнера с грузом    | нет          | Число             | по ISO 668:2020/Amd.1:2022 |
-| 6   | Масса тары                | Масса контейнера без груза                          | нет          | Число             | -                          |
-|     |                           |                                                     |              |                   |                            |
-| 7   | Код владельца             | Уникальный код владельца контейнера                 | нет          | три буквы         | OWN                        |
-| 8   | Серийный номер            | Серийный номер контейнера                           | нет          | шесть цифр        | 000000                     |
-| 9   | Контрольное число         | Код достоверности кода владельца и серийного номера | нет          | одна цифра        | 0                          |
-|     |                           |                                                     |              |                   |                            |
-| 10  | POL                       | Порт погрузки                                       | да           | выпадающий список | Первый порт маршрута       |
-| 11  | POD                       | Порт выгрузки                                       | да           | выпадающий список | Последний порт маршрута    |
-|     |                           |                                                     |              |                   |                            |
-| 12  | Количество контейнеров    | Количество контейнеров для добавления               | да           | число             | 1                          |
+### Adding containers
+![General view of the tab "Adding containers"](/assets/image/program_sheets/en/sheet05_loading/tab07_containers/container_added.png "General view of the tab 'Adding containers'")
+In order to add a container to the list of available containers on the ship, click on the "Add" button. In the window that opens, you must specify the data placed in the left column in accordance with the table:
+| No. | Name                 | Definition                                                  | Required | Format         | Default value                        |
+| --- | -------------------- | ----------------------------------------------------------- | -------- | -------------- | ------------------------------------ |
+| 1   | Length               | Overall length of the container                             | yes      | Drop-down list | 20 ft                                |
+| 2   | Height               | Overall height of the container                             | yes      | drop-down list | Standard                             |
+| 3   | Type code            | Type code and the main characteristic of the type           | no       | two symbols    | GP                                   |
+|     |                      |                                                             |          |                |                                      |
+| 4   | Gross weight         | Weight of the transported container with cargo              | yes      | Number         | -                                    |
+| 5   | Maximum gross weight | Maximum permissible weight of a container with cargo        | no       | Number         | according to ISO 668:2020/Amd.1:2022 |
+| 6   | Tare weight          | Weight of the container without cargo                       | no       | Number         | -                                    |
+|     |                      |                                                             |          |                |                                      |
+| 7   | Owner's code         | Unique container owner's code                               | none     | three letters  | OWN                                  |
+| 8   | Serial number        | Container serial number                                     | none     | six digits     | 000000                               |
+| 9   | Control number       | The authenticity code of the owner's code and serial number | none     | one digit      | 0                                    |
+|     |                      |                                                             |          |                |                                      |
+| 10  | POL                  | Loading port                                                | yes      | drop-down list | First port of the route              |
+| 11  | POD                  | Unloading port                                              | yes      | drop-down list | Last port of the route               |
+|     |                      |                                                             |          |                |                                      |
+| 12  | Number of containers | Number of containers to add                                 | yes      | number         | 1                                    |
 
-При задании данных в левом столбце, правый заполняется автоматически:
-| №   | Наименование              | Определение                        | Значение                                                          |
-| --- | ------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1   | Код ISO                   | Код внешнего габарита контейнера   | три символа по ISO 668:2020/Amd.1:2022(E)                         |
-| 2   | Код размера               | Код внешнего габарита контейнера   | два символа по ISO6346:2022                                       |
-|     |                           |                                    |                                                                   |
-| 4   | Максимальная масса нетто* | Максимально допустимая масса груза | максимальная масса нетто = Максимальная масса брутто - Масса тары |
-| 5   | Масса нетто*              | Масса груза в контейнере           | масса нетто = Масса брутто - Масса тары                           |
-|     |                           |                                    |                                                                   |
-| 6   | Код контейнера            | Уникальный код контейнера          | по ISO6346:2022                                                   |
-|     |                           |                                    |                                                                   |
-| 7   | POL ETA-ETD               | Время нахождения в порту погрузки  | в соответствии с заданным маршрутом                               |
-| 8   | POL ETA-ETD               | Время нахождения в порту выгрузки  | в соответствии с заданным маршрутом                               |
+When you enter data in the left column, the right one is filled in automatically:
+| Apostille | Name                | Definition                              | Meaning                                                 |
+| --------- | ------------------- | --------------------------------------- | ------------------------------------------------------- |
+| 1         | ISO code            | Container external dimension code       | three symbols according to ISO 668:2020/Amd.1:2022(E)   |
+| 2         | Size code           | Container external dimension code       | two symbols according to ISO6346:2022                   |
+|           |                     |                                         |                                                         |
+| 4         | Maximum net weight* | Maximum permissible weight of the cargo | maximum net weight = Maximum gross weight - Tare weight |
+| 5         | Net weight*         | Weight of the cargo in the container    | net weight = Gross weight - Tare weight                 |
+|           |                     |                                         |                                                         |
+| 6         | Container code      | Unique container code                   | according to ISO6346:2022                               |
+|           |                     |                                         |                                                         |
+| 7         | POL ETA-ETD         | Time spent at the port of loading       | according to the specified route                        |
+| 8         | POL ETA-ETD         | Time spent at the port of discharge     | according to the specified route                        |
 
-После сохранения контейнер(-ы) попадают в общий список доступных для размещения. Для удаления контейнера необходимо выбрать соответствующую строчку и нажать "Удалить". Удалить контейнер которые уже установлены на судно невозможно, для удаления необходимо его выгрузить с судна.
+After saving, the container(s) are added to the general list available for placement. To delete a container, select the appropriate line and click "Delete". It is impossible to remove containers that are already installed on the ship, to remove it, it must be unloaded from the ship.
 
-Для удаления всех контейнеров необходимо нажать "Удалить все контейнеры". Удалить все контейнеры, при установленном хотя бы одном контейнере невозможно, для удаления необходимо выгрузить все контейнеры с судна.
+To delete all containers, click "Delete all containers". It is impossible to remove all containers with at least one container installed, for removal it is necessary to unload all containers from the ship.
 
-После добавления данные для контейнеров возможно также изменить из таблицы с общим списком контейнеров. В таблице и на бэйплане контейнера отображаются следующими цветами:
+After adding the data for containers, it is also possible to change from the table with the general list of containers. The following colors are displayed in the table and on the bayplane of the container:
 
-- зеленым - 20-футовые;
-- фиолетовым - 30-футовые;
-- синим - 40-футовые.
+- green - 20-foot;
+- purple - 30-foot;
+- blue - 40-foot.
 
-При наведении на цвет контейнера в таблице выводится подсказка с его "Обохначением ISO".
+When you hover over the color of the container, a hint with its "ISO value" is displayed in the table.

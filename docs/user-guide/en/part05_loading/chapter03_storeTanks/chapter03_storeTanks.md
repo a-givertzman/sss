@@ -1,13 +1,13 @@
-## Цистерны запаса
-![Общий вид вкладки "Цистерны запаса"](/assets/image/program_sheets/ru/sheet05_loading/tab03_storeTanks/storeTanks.png "Общий вид страницы 'Цистерны запаса'")
+## Stores tanks
+![General view of the tab "Stores tanks"](/assets/image/program_sheets/en/sheet05_loading/tab03_storeTanks/storeTanks.png "General view of the tab 'Stores tanks'")
 
-Вкладка предназначена для задания данных по цистернам запаса.
+The tab is used to set data on stock tanks.
 
-Вкладка аналогична вкладке ["Балластные цистерны"](/docs/user-guide/ru/part05_loading/chapter02_ballast/chapter02_ballast.md).
+The tab is similar to the tab ["Ballast tanks"](/docs/user-guide/en/part05_loading/chapter02_ballast/chapter02_ballast.md).
 
-Для цистерн запасов приняты следующие цвета:
-- Топливные - коричневый;
-- Масляные цистерны- коричневый;
-- Пресной воды - синий;
-- Для загрязненных вод - черный;
-- Прочие цистерны - серый.
+The following colors are accepted for stock tanks:
+- Fuel - brown;
+- Oil tanks - brown;
+- Fresh water - blue;
+- For polluted waters - black;
+- Other tanks are grey.

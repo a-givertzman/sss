@@ -1,17 +1,20 @@
-### Описание бэй плана
-В верхней части экрана расположен бэй план, который оформлен в соответствии с ISO 9711-1 часть 1.
-Для размещения контейнеров принята система «секция-ряд-ярус». Формат кода размещения контейнеров BBRRTT, где BB - секция, RR - ряд, TT - ярус.
-#### Секция 
-Нумерация от носа в корму. Для нумерации 20-футовых контейнеров приняты нечетные числа. Для 40-футовых четные. 30-футовые обозначаются четными числами со знаком "*". 
+### Description of the bay plan
+At the top of the screen there is a bay plan, which is designed in accordance with ISO 9711-1 part 1.
+The "section-row-tier" system has been adopted for the placement of containers. The format of the container placement code is BBRRTT, where BB is a section, RR is a row, TT is a tier.
 
-В случае смешанной укладки двух 20-футовых контейнеров в 40-футовом отсеке кормовой 20-футовый контейнер показан на плане 40-футового отсека, в то время как 20-футовый контейнер показан на плане отдельного отсека, имеющего предыдущий по старшинству нечетный номер. 
+#### Section 
+Numbering from bow to stern. Odd numbers are accepted for numbering 20-foot containers. For 40-footers, even ones. 30-foot ones are indicated by even numbers with a "*" sign. 
 
-Для плана в котором размещаются только 20-футовые контейнеры четная секция заключена в скобки. Для смешанных планов или в котором размещаются  только 40-футовые нечетная секция заключена в скобки. 
+In the case of mixed stacking of two 20-foot containers in a 40-foot compartment, the aft 20-foot container is shown on the plan of the 40-foot compartment, while the 20-foot container is shown on the plan of a separate compartment having the previous odd number in seniority. 
 
-Прокрутка планов осуществляется нажатием на строку с номерами планов, расположенной под планами секций.
+For a plan that accommodates only 20-foot containers, the even section is enclosed in brackets. For mixed plans or in which only 40-footers are placed, the odd section is enclosed in brackets. 
 
-Справа от бэй плана приведено общее количество контейнеров в трюме и на палубе в каждой секции.
-#### Ряд
-Нумерация от диаметральной плоскости. Ряды контейнеров, расположенные на судне справа от ДП нумеруются нечетными числами, слева — четными. Если количество рядов нечетное, ряд расположенный в ДП нумеруется 00.
-#### Ярус
-Нумерация контейнеров от днища. Контейнеры, расположенные в трюме нумеруются с 02, стоящие непосредственно на главной палубе, имеют номер 80, а стоящие на люках нумеруются с 82. С каждым ярусом к цифре добавляется 2. Схема нумерации ярусов остается неизменной, даже если загружаются контейнеры высотой, отличной от стандартной.
+The plans are scrolled by clicking on the line with the plan numbers located under the section plans.
+
+To the right of the bay plan is the total number of containers in the hold and on deck in each section.
+
+#### Row
+Numbering from the diametrical plane. The rows of containers located on the ship to the right of the CL are numbered with odd numbers, on the left with even numbers. If the number of rows is odd, the row located in the CL is numbered 00.
+
+#### Tier
+Numbering of containers from the bottom. Containers located in the hold are numbered from 02, standing directly on the main deck are numbered 80, and those standing on hatches are numbered from 82. With each tier, 2 is added to the figure. The numbering scheme of the tiers remains unchanged, even if containers are loaded with a height other than the standard one.

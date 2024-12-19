@@ -1,44 +1,44 @@
-### Типы контейнеров
+### Types of containers
 
-В ПО имеется возможность размещение следующих типов контейнеров в соответствии с таблицей.
+It is possible to place the following types of containers in the software according to the table.
 
-| Наименование               | Обозначение ISO | Код размера |
-| -------------------------- | --------------- | ----------- |
-| 20-футовый низкий стандарт | 1C              | 20          |
-| 20-футовый стандарт        | 1СС             | 22          |
-| 20-футовый high cube       | 1ССC            | 25          |
-| 30-футовый низкий стандарт | 1B              | 30          |
-| 30-футовый стандарт        | 1BB             | 32          |
-| 30-футовый high cube       | 1BBB            | 35          |
-| 40-футовый низкий стандарт | 1A              | 40          |
-| 40-футовый стандарт        | 1AA             | 42          |
-| 40-футовый high cube       | 1AAA            | 45          |
+| Name                  | ISO designation | Size code |
+| --------------------- | --------------- | --------- |
+| 20-foot low standard  | 1C              | 20        |
+| 20-foot standard      | 1CC             | 22        |
+| 20-foot high cube     | 1CC             | 25        |
+| 30-foot low standard  | 1B              | 30        |
+| 30-foot standard      | 1BB             | 32        |
+| 30-foot high cube     | 1BBB            | 35        |
+| 40- foot low standard | 1A              | 40        |
+| 40-foot standard      | 1AA             | 42        |
+| 40- foot high cube    | 1AAA            | 45        |
 
 > [!NOTE]
-> Перечень контейнеров доступных для установки может меняться в зависимости от оборудования судна.
+> The list of containers available for installation may vary depending on the equipment of the vessel.
 
-1. "Обозначение ISO" контейнеров в соответствии с ISO 668:2020/Amd.1:2022(E).
-2. "Код размера" (т. е. внешнего габарита) контейнера определяется в соответствии с ISO6346:2022. Формат кода размера два буквенно-цифровых символа:
-- первый — цифровой или буквенный символ, обозначает длину;
-- второй — цифровой или буквенный символ, обозначает ширину и высоту.<br>
-Код длины равен:
-- 2 для контейнера длиной 6058 мм;
-- 3 для контейнера длиной 9125 мм;
-- 4 для контейнера длиной 12192 мм.<br>
-Код ширины и высоты равен:
-- 0 для контейнера шириной 2438 и высотой 2438;
-- 2 для контейнера шириной 2438 и высотой 2591;
-- 5 для контейнера шириной 2438 и высотой 2896;
+1. The "ISO designation" of containers in accordance with ISO 668:2020/Amd.1:2022(E).
+2. The "size code" (i.e. the external dimension) of the container is determined in accordance with ISO6346:2022. The size code format is two alphanumeric characters:
+- the first is a numeric or alphabetic character, denotes the length;
+- the second one is a numeric or alphabetic character, denotes width and height.<br>
+The length code is equal to:
+- 2 for a container with a length of 6058 mm;
+- 3 for a container with a length of 9125 mm;
+- 4 for a container with a length of 12192 mm.<br>
+The width and height code is equal to:
+- 0 for a container with a width of 2438 and a height of 2438;
+- 2 for a container with a width of 2438 and a height of 2591;
+- 5 for a container with a width of 2438 and a height of 2896.
 
-Внешние габариты и допустимая масса одного контейнера в соответствии с ISO 668:2020/Amd.1:2022 приведены в таблице.
-| Обозначение | Длина [мм] | Ширина [мм] | Высота [мм] | Допустимая масса брутто [кг] |
-| ----------- | ---------- | ----------- | ----------- | ---------------------------- |
-| 1C          | 6058       | 2438        | 2438        | 36000                        |
-| 1СС         | 6058       | 2438        | 2591        | 36000                        |
-| 1ССC        | 6058       | 2438        | 2896        | 36000                        |
-| 1B          | 9125       | 2438        | 2438        | 36000                        |
-| 1BB         | 9125       | 2438        | 2591        | 36000                        |
-| 1BBB        | 9125       | 2438        | 2896        | 36000                        |
-| 1A          | 12192      | 2438        | 2438        | 36000                        |
-| 1AA         | 12192      | 2438        | 2591        | 36000                        |
-| 1AAA        | 12192      | 2438        | 2896        | 36000                        |
+The external dimensions and permissible weight of one container in accordance with ISO 668:2020/Amd.1:2022 are shown in the table.
+| Designation | Length [mm] | Width [mm] | Height [mm] | Permissible gross weight [kg] |
+| ----------- | ----------- | ---------- | ----------- | ----------------------------- |
+| 1C          | 6058        | 2438       | 2438        | 36000                         |
+| 1СС         | 6058        | 2438       | 2591        | 36000                         |
+| 1ССC        | 6058        | 2438       | 2896        | 36000                         |
+| 1B          | 9125        | 2438       | 2438        | 36000                         |
+| 1BB         | 9125        | 2438       | 2591        | 36000                         |
+| 1BBB        | 9125        | 2438       | 2896        | 36000                         |
+| 1A          | 12192       | 2438       | 2438        | 36000                         |
+| 1AA         | 12192       | 2438       | 2591        | 36000                         |
+| 1AAA        | 12192       | 2438       | 2896        | 36000                         |
