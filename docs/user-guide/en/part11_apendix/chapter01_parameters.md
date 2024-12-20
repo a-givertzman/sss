@@ -14,13 +14,13 @@
 | 11  | Vertical centre of buoyancy                                 | [m]       |
 | 12  | Vertical centre of gravity                                  | [m]       |
 | 13  | Transverse metacentric radius                               | [m]       |
-| 14  | Vertical centre of transverse metacentr                     | [m]       |
+| 14  | Vertical centre of transverse metacentre                     | [m]       |
 | 15  | Transverse metacentric height                               | [m]       |
 | 16  | Correction to transverse metacentric height of stores       | [m]       |
 | 17  | Correction to transverse metacentric height of ballast      | [m]       |
 | 18  | Transverse metacentric height fixed                         | [m]       |
 | 19  | Longitudinal metacentric radius                             | [m]       |
-| 20  | Vertical centre of longitudinal metacentr                   | [m]       |
+| 20  | Vertical centre of longitudinal metacentre                   | [m]       |
 | 21  | Longitudinal metacentric height                             | [m]       |
 | 22  | Correction to longitudinal metacentric height of stores     | [m]       |
 | 23  | Correction to longitudinal metacentric height of ballast    | [m]       |
