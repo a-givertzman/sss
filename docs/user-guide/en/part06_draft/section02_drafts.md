@@ -1,31 +1,32 @@
-## Изображение судна
-На изображении судна отображаются осадки судна. В верхней части имеется поле выбора режима вывода осадок:
-- на перпендикулярах;
-- на марках;
+## Image of the ship
+The ship's draft is displayed on the ship's image. In the upper part there is a field for selecting the precipitation output mode:
+- on the perpendiculars;
+- on marks.
 
-![Осадки на марках углубления](/assets/image/program_sheets/ru/sheet06_draft/draft_perpendicular.png "Осадки на марках углубления")
+![Draft on marks](/assets/image/program_sheets/en/sheet06_draft/draft_perpendicular.png "Draft on marks")
 
-При отображении осадок на перпендикулярах отображаются следующие осадки
-| №   | Наименование                      | Размерность |
-| --- | --------------------------------- | ----------- |
-| 4   | Осадка на носовом перпендикуляре  | [м]         |
-| 5   | Осадка на кормовом перпендикуляре | [м]         |
-| 94  | Осадка на миделе                  | [м]         |
-При отображении осадок на марках отображаются следующие осадки
-| №   | Наименование                                        | Размерность |
-| --- | --------------------------------------------------- | ----------- |
-| 79  | Осадка на кормовых марках ПрБ                       | [м]         |
-| 80  | Осадка на кормовых марках ЛБ                        | [м]         |
-| 81  | Осадка на кормовых марках осредненная               | [м]         |
-| 82  | Осадка на промежуточных кормовых марках ПрБ         | [м]         |
-| 83  | Осадка на промежуточных кормовых марках ЛБ          | [м]         |
-| 84  | Осадка на промежуточных кормовых марках осредненная | [м]         |
-| 85  | Осадка на миделевых марках ПрБ                      | [м]         |
-| 86  | Осадка на миделевых марках ЛБ                       | [м]         |
-| 87  | Осадка на миделевых марках осредненная              | [м]         |
-| 88  | Осадка на промежуточных носовых марках ПрБ          | [м]         |
-| 89  | Осадка на промежуточных носовых марках ЛБ           | [м]         |
-| 90  | Осадка на промежуточных носовых марках осредненная  | [м]         |
-| 91  | Осадка на носовых марках ПрБ                        | [м]         |
-| 92  | Осадка на носовых марках ЛБ                         | [м]         |
-| 93  | Осадка на носовых марках осредненная                | [м]         |
+When precipitation is displayed on the perpendiculars, the following precipitation is displayed
+| №   | Name             | Dimension |
+| --- | ---------------- | --------- |
+| 4   | Draft at FP      | [m]       |
+| 5   | Draft at AP      | [m]       |
+| 94  | Draft at midship | [m]       |
+
+When precipitation is displayed on marks, the following precipitation is displayed
+| №   | Name                                 | Dimension |
+| --- | ------------------------------------ | --------- |
+| 79  | Draft aft at marks SB                | [m]       |
+| 80  | Draft aft at marks PS                | [m]       |
+| 81  | Draft aft at marks mean              | [m]       |
+| 82  | Draft intermediate aft at marks SB   | [m]       |
+| 83  | Draft intermediate aft at marks PS   | [m]       |
+| 84  | Draft intermediate aft at marks mean | [m]       |
+| 85  | Draft middle at marks SB             | [m]       |
+| 86  | Draft middle at marks PS             | [m]       |
+| 87  | Draft middle at marks mean           | [m]       |
+| 88  | Draft intermediate fwd at marks SB   | [m]       |
+| 89  | Draft intermediate fwd at marks PS   | [m]       |
+| 90  | Draft intermediate fwd at marks mean | [m]       |
+| 91  | Draft fwd at marks SB                | [m]       |
+| 92  | Draft fwd at marks PS                | [m]       |
+| 93  | Draft fwd at marks mean              | [m]       |

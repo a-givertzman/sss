@@ -1,54 +1,54 @@
-## Таблица параметров остойчивости
-В таблице параметров остойчивости приводится сводная информация параметрам остойчивости и вспомогательным величинам, необходимым для расчетов критериев остойчивости. Перечень отображаемых параметров  приведен в таблице. Перечень параметров изменяется автоматически в зависимости от типа груза и предъявляемых критериев. Строки в таблице могут быть отсортированы по возрастанию или убыванию по значениям каждого столбца, режим сортировки для столбца изменяется при нажатии на его заголовок.
+## Table of stability parameters
+The table of stability parameters provides a summary of stability parameters and auxiliary values required for calculating stability criteria. The list of displayed parameters is given in the table. The list of parameters changes automatically depending on the type of cargo and the required criteria. The rows in the table can be sorted in ascending or descending order by the values of each column, the sorting mode for the column changes when you click on its header.
 
-| №   | Наименование                                                    | Размерность |
-| --- | --------------------------------------------------------------- | ----------- |
-| 1   | Аппликата центра тяжести исправленная                           | [м]         |
-| 3   | Осадка в цт площади ватерлинии                                  | [м]         |
-| 4   | Осадка на носовом перпендикуляре                                | [м]         |
-| 5   | Осадка на кормовом перпендикуляре                               | [м]         |
-| 6   | Дифферент                                                       | [град]      |
-| 7   | Статический угол крена судна                                    | [град]      |
-| 8   | Число тонн на 1 см осадки                                       | [т]         |
-| 9   | Момент кренящий на 1 градус                                     | [т•м]       |
-| 10  | Момент дифферентующий на 1 см осадки                            | [т•м/см]    |
-| 11  | Аппликата центра величины                                       | [м]         |
-| 12  | Аппликата центра тяжести                                        | [м]         |
-| 13  | Поперечный метацентрический радиус                              | [м]         |
-| 14  | Аппликата поперечного метацентра                                | [м]         |
-| 15  | Поперечная метацентрическая высота                              | [м]         |
-| 16  | Поправка от цистерн запаса к поперечной метацентрической высоте | [м]         |
-| 17  | Поправка от балласта к поперечной метацентрической высоте       | [м]         |
-| 18  | Поперечная метацентрическая высота исправленная                 | [м]         |
-| 19  | Продольный метацентрический радиус                              | [м]         |
-| 20  | Аппликата продольного метацентра                                | [м]         |
-| 21  | Продольная метацентрическая высота                              | [м]         |
-| 22  | Поправка от цистерн запаса к продольной метацентрической высоте | [м]         |
-| 23  | Поправка от балласта к продольной метацентрической высоте       | [м]         |
-| 24  | Продольная метацентрическая высота исправленная                 | [м]         |
-| 32  | Абсцисса центра тяжести                                         | [м]         |
-| 33  | Давление ветра                                                  | [Па]        |
-| 34  | Площадь парусности                                              | $[м^2]$     |
-| 35  | Плечо парусности                                                | [м]         |
-| 36  | Плечо статического ветрового кренящего момента                  | [м]         |
-| 37  | Плечо динамического ветрового кренящего момента                 | [м]         |
-| 38  | Ветровой статический угол крена                                 | [град]      |
-| 39  | Ветровой динамический угол крена                                | [град]      |
-| 40  | Угол второго пересечения $l_{w2}$ с ДСО                         | [град]      |
-| 41  | Амплитуда качки                                                 | [град]      |
-| 42  | Период качки                                                    | [с]         |
-| 43  | Площадь a                                                       | $[м^2]$     |
-| 44  | Площадь b                                                       | $[м^2]$     |
-| 45  | Угол входа в воду кромки палубы                                 | [град]      |
-| 46  | Угол заливания                                                  | [град]      |
-| 47  | Угол заката ДСО                                                 | [град]      |
-| 48  | Кренящий момент от смещения зерна                               | [т•м]       |
-| 49  | Крен при макс. разности кривой кренящих моментов и ДСО          | [град]      |
-| 50  | Скорость судна                                                  | [уз]        |
-| 51  | Дифферент                                                       | [м]         |
-| 52  | Ордината центра тяжести                                         | [м]         |
-| 53  | Ордината центра величины                                        | [м]         |
-| 54  | Абсцисса центра площади ватерлинии, от кормового перпендикуляра | [м]         |
-| 55  | Абсцисса центра величины от кормового перпендикуляра            | [м]         |
-| 56  | Абсцисса центра тяжести от кормового перпендикуляра             | [м]         |
-| 95  | Поправка к поперечной метацентрической высоте                   | [м]         |
+| №   | Name                                                     | Dimension |
+| --- | -------------------------------------------------------- | --------- |
+| 1   | Vertical centre of gravity fixed                         | [m]       |
+| 3   | Draft at center of flotation                             | [m]       |
+| 4   | Draft at FP                                              | [m]       |
+| 5   | Draft at AP                                              | [m]       |
+| 6   | Trim                                                     | [degree]  |
+| 7   | Heel                                                     | [degree]  |
+| 8   | Tonnes per 1 cmи                                         | [t]       |
+| 9   | Moment to heel 1 degree                                  | [t•m]     |
+| 10  | Moment to trim 1 cm                                      | [t•m/cm]  |
+| 11  | Vertical centre of buoyancy                              | [m]       |
+| 12  | Vertical centre of gravity                               | [m]       |
+| 13  | Transverse metacentric radius                            | [m]       |
+| 14  | Vertical centre of transverse metacentre                 | [m]       |
+| 15  | Transverse metacentric height                            | [m]       |
+| 16  | Correction to transverse metacentric height of stores    | [m]       |
+| 17  | Correction to transverse metacentric height of ballast   | [m]       |
+| 18  | Transverse metacentric height fixed                      | [m]       |
+| 19  | Longitudinal metacentric radius                          | [m]       |
+| 20  | Vertical centre of longitudinal metacentre               | [m]       |
+| 21  | Longitudinal metacentric height                          | [m]       |
+| 22  | Correction to longitudinal metacentric height of stores  | [m]       |
+| 23  | Correction to longitudinal metacentric height of ballast | [m]       |
+| 24  | Longitudinal metacentric height fixed                    | [m]       |
+| 32  | Longitudinal center of gravity                           | [m]       |
+| 33  | Wind pressure                                            | [Pa]      |
+| 34  | Windage area                                             | $[m^2]$   |
+| 35  | Windage area lever                                       | [m]       |
+| 36  | Static windage heeling lever                             | [m]       |
+| 37  | Dynamic windage heeling lever                            | [m]       |
+| 38  | Static windage heeling angle                             | [degree]  |
+| 39  | Dynamic windage heeling angle                            | [degree]  |
+| 40  | Heeling angle of second point of intersection            | [degree]  |
+| 41  | Roll amplitude                                           | [degree]  |
+| 42  | Roll period                                              | [s]       |
+| 43  | Area  a                                                  | $[m^2]$   |
+| 44  | Area  b                                                  | $[m^2]$   |
+| 45  | Open deck edge immersion angle                           | [degree]  |
+| 46  | Angle of down-flooding                                   | [degree]  |
+| 47  | Sunset angle                                             | [degree]  |
+| 48  | Heeling moment due to the transverse shift of grain      | [t•m]     |
+| 49  | Heeling angle with maximum difference                    | [degree]  |
+| 50  | Vessel speed                                             | [knot]    |
+| 51  | Trim                                                     | [m]       |
+| 52  | Transverse center of gravity                             | [m]       |
+| 53  | Transverse center of buoyancy                            | [m]       |
+| 54  | Longitudinal center of flotation, from AP                | [m]       |
+| 55  | Longitudinal center of buoyancy, from AP                 | [m]       |
+| 56  | Longitudinal center of gravity, from AP                  | [m]       |
+| 95  | Correction to transverse metacentric height              | [m]       |

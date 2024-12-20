@@ -1,7 +1,7 @@
-# Страница "Остойчивость"
-![Общий вид страницы "Остойчивость"](/assets/image/program_sheets/ru/sheet08_stability/stability.png "Общий вид страницы 'Остойчивость'")
+# Page "Stability"
+![General view of the page "Stability"](/assets/image/program_sheets/en/sheet08_stability/stability.png "General view of the page 'Stability'")
 
-Страница "Остойчивость" предназначена для вывода результатов расчета критериев и параметров остойчивости и состоит из:
-- графика плеч остойчивости;
-- таблицы критериев остойчивости;
-- таблицы параметров остойчивости.
+The Stability page is designed to display the results of calculating the criteria and parameters of stability and consists of:
+- stability shoulder graphics;
+- tables of stability criteria;
+- tables of stability parameters.

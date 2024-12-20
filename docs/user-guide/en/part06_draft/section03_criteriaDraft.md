@@ -1,49 +1,49 @@
-## Таблица с критериями посадки
-В таблице критериев приводится сводная информация по выполнению критериев посадки, предъявляемых к судну: 
-- наименование критерия с размерностью;
-- его расчетное значение;
-- условие выполнения (больше/меньше);
-- допустимое значение;
-- статус выполнения критерия для текущей загрузки.
+## Table with landing criteria
+The criteria table provides a summary of information on the fulfillment of the landing criteria required for the vessel:
+- name of the criterion with dimension;
+- its calculated value;
+- fulfillment condition (more/less);
+- acceptable value;
+- the status of the criterion fulfillment for the current download.
   
-Перечень рассчитываемых критериев приведен в таблице. Перечень критериев, предъявляемых к судну в зависимости от заданного груза определяется автоматически. Критерии рассчитываются в соответствии с правилами классификационного общества:
-- [1] [Руководством по применению положений международной конвенции о грузовой марке,НД No 2-030101-046, РМРС, 2024 г](/reference/ru/RMRS/Guidelines/ships_&_offshore_installations/2-030101-046_LL_66_88.pdf).
+The list of calculated criteria is given in the table. The list of criteria to be applied to the vessel, depending on the specified cargo, is determined automatically. The criteria are calculated in accordance with the rules of the classification society:
+- [1] [Guidelines on application of provisions of the interntional convention of the interntional convention, ND No 2-030101-046-E, RMRS, 2024](/reference/en/RMRS/Guidelines/ships_&_offshore_installations/2-030101-046_LL_66_88.pdf).
 
-| №   | Наименование сокращенное                                 | Размерность |
-| --- | -------------------------------------------------------- | ----------- |
-| 101 | Осадка по летнюю ГВЛ ПрБ                                 | [м]         |
-| 102 | Осадка по летнюю ГВЛ ЛБ                                  | [м]         |
-| 103 | Осадка по зимнюю ГВЛ ПрБ                                 | [м]         |
-| 104 | Осадка по зимнюю ГВЛ ЛБ                                  | [м]         |
-| 105 | Осадка по зимнюю ГВЛ в Северной Атлантике ПрБ            | [м]         |
-| 106 | Осадка по зимнюю ГВЛ в Северной Атлантике ЛБ             | [м]         |
-| 107 | Осадка по тропическую ГВЛ ПрБ                            | [м]         |
-| 108 | Осадка по тропическую ГВЛ ЛБ                             | [м]         |
-| 109 | Осадка по летнюю ГВЛ в пресной воде ПрБ                  | [м]         |
-| 110 | Осадка по летнюю ГВЛ в пресной воде ЛБ                   | [м]         |
-| 111 | Осадка по тропическую ГВЛ в пресной воде ПрБ             | [м]         |
-| 112 | Осадка по тропическую ГВЛ в пресной воде ЛБ              | [м]         |
-| 113 | Осадка по лесную летнюю ЛЛ ГВЛ ПрБ                       | [м]         |
-| 114 | Осадка по лесную летнюю ГВЛ ЛБ                           | [м]         |
-| 115 | Осадка по лесную зимнюю ГВЛ ПрБ                          | [м]         |
-| 116 | Осадка по лесную зимнюю ГВЛ ЛБ                           | [м]         |
-| 117 | Осадка по лесную зимнюю ГВЛ в Северной Атлантике ГВЛ ПрБ | [м]         |
-| 118 | Осадка по лесную зимнюю ГВЛ в Северной Атлантике ГВЛ ЛБ  | [м]         |
-| 119 | Осадка по лесную тропическую ГВЛ ПрБ                     | [м]         |
-| 120 | Осадка по лесную тропическую ГВЛ ЛБ                      | [м]         |
-| 121 | Осадка по лесную летнюю ГВЛ в пресной воде ПрБ           | [м]         |
-| 122 | Осадка по лесную летнюю ГВЛ в пресной воде ЛБ            | [м]         |
-| 123 | Осадка по лесную тропическую ГВЛ в пресной воде ПрБ      | [м]         |
-| 124 | Осадка по лесную тропическую ГВЛ в пресной воде ПрБ ЛБ   | [м]         |
-| 125 | Осадка по ГВЛ Р1 (резерв)                                | [м]         |
-| 140 | Осадка по ГВЛ Р16 (резерв)                               | [м]         |
-| 141 | Максимальный дифферент на нос                            | [м]         |
-| 142 | Максимальный дифферент на корму                          | [м]         |
-| 143 | Высота на носовом перпендикуляре ПрБ                     | [м]         |
-| 144 | Высота на носовом перпендикуляре ЛБ                      | [м]         |
-| 145 | Заглубление винта ДП                                     | [%]         |
-| 146 | Заглубление винта ПрБ                                    | [%]         |
-| 147 | Заглубление винта ЛБ                                     | [%]         |
-| 148 | Заглубление винта (резерв)                               | [%]         |
-| 149 | Заглубление винта (резерв)                               | [%]         |
-| 150 | Запас плавучести в носу                                  | $[м^2]$     |
+| №   | Name                                     | Dimension |
+| --- | ---------------------------------------- | --------- |
+| 101 | Summer LL draft SB                       | [m]       |
+| 102 | Summer LL draft PS                       | [m]       |
+| 103 | Winter LL draft SB                       | [m]       |
+| 104 | Winter LL draft PS                       | [m]       |
+| 105 | Winter North Atlantic LL draft SB        | [m]       |
+| 106 | Winter North Atlantic LL draft PS        | [m]       |
+| 107 | Tropical LL draft SB                     | [m]       |
+| 108 | Tropical LL draft PS                     | [m]       |
+| 109 | Fresh water LL draft in summer SB        | [m]       |
+| 110 | Fresh water LL draft in summer PS        | [m]       |
+| 111 | Tropical fresh water LL draft SB         | [m]       |
+| 112 | Tropical fresh water LL draft PS         | [m]       |
+| 113 | Summer timber LL draft SB                | [m]       |
+| 114 | Summer timber LL draft PS                | [m]       |
+| 115 | Winter timber LL draft SB                | [m]       |
+| 116 | Winter timber LL draft LW PS             | [m]       |
+| 117 | Winter North Atlantic timber LL draft SB | [m]       |
+| 118 | Winter North Atlantic timber LL draft PS | [m]       |
+| 119 | Tropical timber LL draft SB              | [m]       |
+| 120 | Tropical timber LL draft PS              | [m]       |
+| 121 | Fresh water timber LL draft in summer SB | [m]       |
+| 122 | Fresh water timber LL draft in summer PS | [m]       |
+| 123 | Tropical fresh water timber LL draft SB  | [m]       |
+| 124 | Tropical fresh water timber LL draft PS  | [m]       |
+| 125 | LL draft SI1 (reserve)                   | [m]       |
+| 140 | LL draft SI16 (reserve)                  | [m]       |
+| 141 | Maximum forward trim                     | [m]       |
+| 142 | Maximum aft trim                         | [m]       |
+| 143 | Depth at forward perpendicular SB        | [m]       |
+| 144 | Depth at forward perpendicular PS        | [m]       |
+| 145 | Screw immersion CL                       | [%]       |
+| 146 | Screw immersion SB                       | [%]       |
+| 147 | Screw immersion PS                       | [%]       |
+| 148 | Screw immersion (reserve)                | [%]       |
+| 149 | Screw immersion (reserve)                | [%]       |
+| 150 | Reserve buoyancy in bow                  | $[m^2]$   |

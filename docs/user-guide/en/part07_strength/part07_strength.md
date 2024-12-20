@@ -1,14 +1,13 @@
-# Страница "Прочность"
-![Общий вид страницы "Прочность"](/assets/image/program_sheets/ru/sheet07_strength/strength.png "Общий вид страницы 'Прочность'")
+# Page "Strength" 
+![General view of the page "Strength"](/assets/image/program_sheets/en/sheet07_strength/strength.png "General view of the page 'Strength'")
 
-Страница "Прочность" предназначена для вывода результатов расчета перерезывающих сил и изгибающих моментов и сравнения их с допустимыми значениями и состоит из графиков и таблиц  изгибающих моментов (в верхней части) и перерезывающих сил (в нижней части) соответственно. 
+The Strength page is designed to display the results of calculating shear forces and bending moments and compare them with acceptable values and consists of graphs and tables of bending moments (in the upper part) and shear forces (in the lower part) accordingly.
 
-Данные приведены для шпаций равномерно распределенных по длине судна. В таблицах для каждой шпации отображаются:
-| Наименование параметра        | Описание                                                                                                                                                                       |
+The data are given for spacings evenly distributed along the length of the vessel. The tables for each location show:
+| Name of the parameter | Description |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| "Значение"                    | Расчетные значения изгибающих моментов и перерезывающих сил. Значения также отображаются на графиках в виде гистограмм                                                         |
-| "Ниж. предел", "Верх. предел" | Верхние и нижние допустимые пределы.  Значения также отображаются на графиках оранжевыми пределами                                                                             |
-| "Допустимый"                  | Долю (в процентах), которую составляет  расчетное значения от допустимого                                                                                                      |
-| "Статус"                      | Статус обеспечения прочности судна. Также на графике при превышении расчетного значения над допустимым соответствующий столбец  окрашивается оранжевой заштрихованной областью |
+| " Value" | Calculated values of bending moments and shearing forces. The values are also displayed on the charts as histograms |
+| "Lower limit", "Top limit" | Upper and lower permissible limits. The values are also displayed on the charts with orange limits |
+| "Acceptable" | The percentage of the calculated value of the acceptable value
  
-Строки в таблице могут быть отсортированы по возрастанию или убыванию по значениям каждого столбца, режим сортировки для столбца изменяется при нажатии на его заголовок.
+The rows in the table can be sorted in ascending or descending order by the values of each column, the sorting mode for the column changes when you click on its header.

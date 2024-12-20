@@ -1,10 +1,10 @@
-# Страница "Руководство"
+# Page "Manual"
 
-![Общий вид страницы "Руководство"](/assets/image/program_sheets/ru/sheet09_help/help_general.png "Общий вид страницы 'Руководство'")
+![General view of the page "Manual"](/assets/image/program_sheets/en/sheet09_help/help_general.png "General view of the page 'Manual'")
 
-На странице "Руководство" предназначено для вывода текущего руководства пользователя. страница состоит из:
-- дерева навигации по руководству в левой части;
-- дерева навигации по статье в правой части;
-- поля отображения статьи руководства в центральной части.
+The "Manual" page is intended to display the current user manual. the page consists of:
+- navigation tree for the manual on the left side;
+- the article navigation tree on the right side;
+- the fields for displaying the manual article in the central part.
 
-При выборе в дереве навигации руководства (в левой части) любого элемента (части, главы, раздела) в центральном поле отображается статья с содержанием выбранного элемента. Навигация по этой статье производится по дереву в правой части страницы.
+When you select any element (part, chapter, section) in the navigation tree of the manual (in the left part), an article with the content of the selected element is displayed in the central field. This article is navigated through the tree on the right side of the page.

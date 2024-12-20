@@ -1,7 +1,7 @@
-# Настройки
+# Settings
 
-![Общий вид страницы "Надстройки"](/assets/image/program_sheets/ru/sheet10_settings/settings_general_ru.jpg "Общий вид страницы 'Надстройки'")
+![General view of the page "Settings"](/assets/image/program_sheets/en/sheet10_settings/settings_general_ru.jpg "General view of the page 'Settings'")
 
-Страница предназначена для задания языка используемого в программе. Для выбора языка необходимо из выпадающего списка выбрать нужный язык и перезагрузить ПО. 
+The page is designed to specify the language used in the program. To select a language, select the desired language from the drop-down list and restart the software.
 
-![Выбор языка](/assets/image/program_sheets/ru/sheet10_settings/settings_choose.jpg "Выбор языка")
+![Language selection](/assets/image/program_sheets/en/sheet10_settings/settings_choose.jpg "Language selection")

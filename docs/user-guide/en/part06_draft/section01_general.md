@@ -1,6 +1,6 @@
-## Общие положения
-![Общий вид страницы "Осадки"](/assets/image/program_sheets/ru/sheet06_draft/draft_perpendicular.png "Общий вид страницы 'Осадки'")
+## General provisions
+![General view of the page "Drafts"](/assets/image/program_sheets/en/sheet06_draft/draft_perpendicular.png "General view of the page 'Drafts'")
 
-Страница состоит из:
-- изображение судна с осадками, расположенное в верхней части страницы;
-- таблица с критериями посадки, расположенное в нижней части страницы.
+The page consists of:
+- an image of a vessel with precipitation, located at the top of the page;
+- a table with landing criteria located at the bottom of the page.
