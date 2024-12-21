@@ -4,11 +4,6 @@ The table of stability parameters provides a summary of stability parameters and
 | №   | Name                                                     | Dimension |
 | --- | -------------------------------------------------------- | --------- |
 | 1   | Vertical centre of gravity fixed                         | [m]       |
-| 3   | Draft at center of flotation                             | [m]       |
-| 4   | Draft at FP                                              | [m]       |
-| 5   | Draft at AP                                              | [m]       |
-| 6   | Trim                                                     | [degree]  |
-| 7   | Heel                                                     | [degree]  |
 | 8   | Tonnes per 1 cmи                                         | [t]       |
 | 9   | Moment to heel 1 degree                                  | [t•m]     |
 | 10  | Moment to trim 1 cm                                      | [t•m/cm]  |
@@ -45,8 +40,6 @@ The table of stability parameters provides a summary of stability parameters and
 | 48  | Heeling moment due to the transverse shift of grain      | [t•m]     |
 | 49  | Heeling angle with maximum difference                    | [degree]  |
 | 50  | Vessel speed                                             | [knot]    |
-| 51  | Trim                                                     | [m]       |
-| 52  | Transverse center of gravity                             | [m]       |
 | 53  | Transverse center of buoyancy                            | [m]       |
 | 54  | Longitudinal center of flotation, from AP                | [m]       |
 | 55  | Longitudinal center of buoyancy, from AP                 | [m]       |
