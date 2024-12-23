@@ -11,7 +11,7 @@ The tab is similar to the tab ["Ballast tanks"](/docs/user-guide/en/part05_loadi
 ### A table with information on stocks
 | Column     | Description                       | Note                                  |
 | ---------- | --------------------------------- | ------------------------------------- |
-| w/n        | Stock color                       | All stocks are marked in gray         |
+| w/o        | Stock color                       | All stocks are marked in gray         |
 | Name       | Name of the stock                 |                                       |
 | Weight [t] | Weight                            |                                       |
 | $x_g$ [m]  | Abscissa of the center of gravity | In the ship-related coordinate system |

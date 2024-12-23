@@ -2,9 +2,9 @@
 The following documentation was used to create the program.
 | №        | Наименование                                                                                  | Примечание |
 | -------- | --------------------------------------------------------------------------------------------- | ---------- |
-| б/н      | Additional Stability Calculations Performed due to Modification and Increase of Draft. (2020) |            |
-| б/н      | Stability Booklet                                                                             |            |
-| б/н      | Information on Stability of The Ship loaded with grain                                        |            |
+| w/o      | Additional Stability Calculations Performed due to Modification and Increase of Draft. (2020) |            |
+| w/o      | Stability Booklet                                                                             |            |
+| w/o      | Information on Stability of The Ship loaded with grain                                        |            |
 | ISCD5481 | Ship Data booklet                                                                             |            |
 | 0023     | Tank arrangement                                                                              |            |
 | 0020     | General arrangement                                                                           |            |

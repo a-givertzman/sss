@@ -26,8 +26,8 @@ When you enter data in the left column, the right one is filled in automatically
 | 1         | ISO code            | Container external dimension code       | three symbols according to ISO 668:2020/Amd.1:2022(E)   |
 | 2         | Size code           | Container external dimension code       | two symbols according to ISO6346:2022                   |
 |           |                     |                                         |                                                         |
-| 4         | Maximum net weight* | Maximum permissible weight of the cargo | maximum net weight = Maximum gross weight - Tare weight |
-| 5         | Net weight*         | Weight of the cargo in the container    | net weight = Gross weight - Tare weight                 |
+| 4         | Maximum net weight  | Maximum permissible weight of the cargo | maximum net weight = Maximum gross weight - Tare weight |
+| 5         | Net weight          | Weight of the cargo in the container    | net weight = Gross weight - Tare weight                 |
 |           |                     |                                         |                                                         |
 | 6         | Container code      | Unique container code                   | according to ISO6346:2022                               |
 |           |                     |                                         |                                                         |

@@ -12,7 +12,7 @@ The projection of the ship and the work with the image is similar to the tab ["B
 For the general cargo, the following data must be entered in accordance with the table.
 | Column     | Description                       | Note                                  |
 | ---------- | --------------------------------- | ------------------------------------- |
-| b/n        | Cargo color                       | All shipments are marked in gray      |
+| w/o        | Cargo color                       | All shipments are marked in gray      |
 | Name       | Cargo name                        |                                       |
 | Weight [t] | Weight                            |                                       |
 | $x_g$ [m]  | Longitudinal center of gravity    | In the ship-related coordinate system |

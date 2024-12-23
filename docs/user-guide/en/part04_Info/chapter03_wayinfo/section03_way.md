@@ -40,6 +40,5 @@ The status column displays the result of checking the correctness of filling in 
 - the time spent in one port intersects with the time spent in another port;
 - the departure time for the port is less than the arrival time.
 
-#### Осадка в порту
 #### The draft in the port
 For each port, the maximum draft of the vessel at which entry into the port is possible can be assigned. When the "Take into account in criteria" is activated, such a draft will be checked when calculating the excess. The result of the check is displayed on the page ["Draft"](/docs/user-guide/en/part06_draft/part06_draft.md).

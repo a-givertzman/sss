@@ -8,4 +8,4 @@ Reserves
 - Icing
 - Empty
 
-More detailed information on loading the vessel can be found on the page ["Loading"] (/docs/user-guide/en/part05_loading/part05_loading.md)/.
+More detailed information on loading the vessel can be found on the page ["Loading"](/docs/user-guide/en/part05_loading/part05_loading.md).

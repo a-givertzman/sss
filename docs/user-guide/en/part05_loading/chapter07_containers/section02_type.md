@@ -21,10 +21,12 @@ It is possible to place the following types of containers in the software accord
 2. The "size code" (i.e. the external dimension) of the container is determined in accordance with ISO6346:2022. The size code format is two alphanumeric characters:
 - the first is a numeric or alphabetic character, denotes the length;
 - the second one is a numeric or alphabetic character, denotes width and height.<br>
+
 The length code is equal to:
 - 2 for a container with a length of 6058 mm;
 - 3 for a container with a length of 9125 mm;
 - 4 for a container with a length of 12192 mm.<br>
+
 The width and height code is equal to:
 - 0 for a container with a width of 2438 and a height of 2438;
 - 2 for a container with a width of 2438 and a height of 2591;

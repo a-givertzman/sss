@@ -10,17 +10,17 @@ When specifying bulk cargo data, the separation of the hold by bulkheads for bul
 
 For each hold (or its component parts), you must specify the data of the columns "M[t]", "V$[m^3]$", "UPO $[m^3/t]$", "%", "Bulk cargo". At the same time, the following logic of changing these parameters is implemented:
 - when changing %
- - the SF is not recalculated;
- - V and M are recalculated;
+  - the SF is not recalculated;
+  - V and M are recalculated;
 - when changing V
- - the SF is not recalculated;
- - % and M are recalculated;
+  - the SF is not recalculated;
+  - % and M are recalculated;
 - when changing M 
- - the SF is not recalculated;
- - % and V are recalculated;
+  - the SF is not recalculated;
+  - % and V are recalculated;
 - when changing the SF
- - not recalculated V;
- - % and M are recalculated.
+  - not recalculated V;
+  - % and M are recalculated.
 
 In the column "Shifting cargo", a sign can be placed for the cargo in each hold (part of the hold). If such a sign is affixed to at least one part of the hold, when checking the stability criteria, the requirements for a vessel carrying grain are checked, namely:
 - the criterion of the roll angle from grain displacement is checked;
