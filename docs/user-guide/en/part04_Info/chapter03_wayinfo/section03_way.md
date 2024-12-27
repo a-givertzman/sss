@@ -16,7 +16,6 @@ The list of information on ports of call that can be specified is given in the t
 | ETD                               | Estimated time of departure |
 | Status                            |                             |
 | Max. draft [m]                    | Draft limit                 |
-| Take into account in the criteria |                             |
 
 #### Port color
 A color can be assigned for each port, which will be displayed when working with containers. The color is selected from the menu after clicking on the color of the corresponding port.
@@ -41,4 +40,4 @@ The status column displays the result of checking the correctness of filling in 
 - the departure time for the port is less than the arrival time.
 
 #### The draft in the port
-For each port, the maximum draft of the vessel at which entry into the port is possible can be assigned. When the "Take into account in criteria" is activated, such a draft will be checked when calculating the excess. The result of the check is displayed on the page ["Draft"](/docs/user-guide/en/part06_draft/part06_draft.md).
+For each port, the maximum draft of the vessel at which entry into the port is possible can be assigned.

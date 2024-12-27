@@ -2,9 +2,10 @@
 At the bottom of the screen there is a table with the mass, the coordinates of the center of mass for the main components of displacement, as well as the total displacement:
 - Displacement
 - Deadweight
- - Cargo
- - Ballast
-Reserves
+  - Cargo
+  - Bulkheads
+  - Ballast
+  - Stores
 - Icing
 - Empty
 
