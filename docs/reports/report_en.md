@@ -1,14 +1,16 @@
-#  Title page
-Logo
-Approve Master
-Software «BoardTrix»
-m/v Sofia
-(IMO№ 555666333)
-Strength and Stability Calculation
-Port "Alaska"
-18.12.022
+# Title page
+
+Logo  
+Approve Master  
+Software «BoardTrix»  
+m/v Sofia  
+(IMO№ 555666333)  
+Strength and Stability Calculation  
+Port "Alaska"  
+18.12.022  
 
 # Ship
+
 | Parameter               | Value |
 | ----------------------- | ----- |
 | Ship name               |       |
@@ -29,6 +31,7 @@ Port "Alaska"
 | Shipbuilder hull number |       |
 
 # Voyage
+
 | Name                       | Value |
 | -------------------------- | ----- |
 | Voyage Code                |       |
@@ -39,12 +42,15 @@ Port "Alaska"
 | Voyage description         |       |
 
 # Itinerary
+
 | Port | Port code | ETA | ETD | Max. draft [m]   |
 | ---- | --------- | --- | --- | ---------------- |
 | ---- | --------- | --- | --- | ---------------- |
 
 # Displacement
+
 ## Total
+
 | №   | Name                                    | Dimension | Value |
 | --- | --------------------------------------- | --------- | ----- |
 | 2   | Displacement                            | [t]       |       |
@@ -55,42 +61,56 @@ Port "Alaska"
 | 52  | Transverse center of gravity            | [m]       |       |
 
 ## Ballast tanks
+
 | №   | Name        | Weight | $x_g$ [м] | $y_g$ [м] | $z_g$ [м] | $M_{f.sx}$ [тм] |
 | --- | ----------- | ------ | --------- | --------- | --------- | --------------- |
 |     | tank name 1 |        |           |           |           |                 |
 |     | tank name 2 |        |           |           |           |                 |
+
 ## Stores tanks
+
 | №   | Name        | Weight | $x_g$ [м] | $y_g$ [м] | $z_g$ [м] | $M_{f.sx}$ [тм] |
 | --- | ----------- | ------ | --------- | --------- | --------- | --------------- |
 |     | tank name 1 |        |           |           |           |                 |
 |     | tank name 2 |        |           |           |           |                 |
+
 ## Stores
+
 | №   | Name   | Weight | $x_g$ [м] | $y_g$ [м] | $z_g$ [м] |
 | --- | ------ | ------ | --------- | --------- | --------- |
 |     | name 1 |        |           |           |           |
 |     | name 2 |        |           |           |           |
+
 ## Bulkheads
+
 | №   | Name         | Fr. | Weight | $x_g$ [м] | $y_g$ [м] | $z_g$ [м] |
 | --- | ------------ | --- | ------ | --------- | --------- | --------- |
 |     | Bulkheads №1 |     |        |           |           |           |
 |     | Bulkheads №2 |     |        |           |           |           |
+
 ## Bulk cargo
+
 | №   | Name    | Weight | $x_g$ [м] | $y_g$ [м] | $z_g$ [м] | Grain moment [тм] |
 | --- | ------- | ------ | --------- | --------- | --------- | ----------------- |
 |     | Hold №1 |        |           |           |           |                   |
 |     | Hold №2 |        |           |           |           |                   |
+
 ## Containers
+
 | №   | Name           | BBRRTT | Weight | $x_g$ [м] | $y_g$ [м] | $z_g$ [м] |
 | --- | -------------- | ------ | ------ | --------- | --------- | --------- |
 |     | OWN U 000000 1 | 010202 |        |           |           |           |
 |     | OWN U 000001 7 | 020682 |        |           |           |           |
+
 ## General cargo
+
 | №   | Name   | Weight | $x_g$ [м] | $y_g$ [м] | $z_g$ [м] |
 | --- | ------ | ------ | --------- | --------- | --------- |
 |     | Name 1 |        |           |           |           |
 |     | Name 1 |        |           |           |           |
 
 # Drafts
+
 | №   | Name                                 | Dimension | Value |
 | --- | ------------------------------------ | --------- | ----- |
 | 3   | Draft at center of flotation         | [m]       |       |
@@ -115,20 +135,27 @@ Port "Alaska"
 | 93  | Draft fwd at marks mean              | [m]       |       |
 
 # Strength
+
 !!!!Grath!!!!
+
 ## Max bending moments
+
 | X    | $BM_{min}$ | $BM$ | $BM_{max}$ | Status |
 | ---- | ---------- | ---- | ---------- | ------ |
 | ---- | --------   | -    | -          | -      |
 | ---- | --------   | -    | -          | -      |
+
 ## Max shear forces
+
 | X    | $SF_{min}$ | $SF$ | $SF_{max}$ | Status |
 | ---- | ---------- | ---- | ---------- | ------ |
 | ---- | --------   | -    | -          | -      |
 | ---- | --------   | -    | -          | -      |
 
 # Stability
+
 ## Criterions
+
 | №   | Name                               | Dimension | Value | Allow | Status |
 | --- | ---------------------------------- | --------- | ----- | ----- | ------ |
 | 1   | Weather criterion                  | -         |       |       |        |
@@ -149,7 +176,9 @@ Port "Alaska"
 | 16  | Area of LC from grain displacement | [m∙rad]   |       |       |        |
 
 ## Stability curve
+
 !!!GRAPH!!!
+
 | Heel | Lever |
 | ---- | ----- |
 | 0    |       |
@@ -167,6 +196,7 @@ Port "Alaska"
 | 80   |       |
 
 ## Stability
+
 | №   | Name                                                     | Dimension | Value |
 | --- | -------------------------------------------------------- | --------- | ----- |
 | 8   | Tonnes per 1 cmи                                         | [t]       |       |
