@@ -116,13 +116,13 @@ Port "Alaska"
 
 # Strength
 !!!!Grath!!!!
-## Bending moments
-| Fr.  | $BM_{min}$ | $BM$ | $BM_{max}$ | Status |
+## Max bending moments
+| X    | $BM_{min}$ | $BM$ | $BM_{max}$ | Status |
 | ---- | ---------- | ---- | ---------- | ------ |
 | ---- | --------   | -    | -          | -      |
 | ---- | --------   | -    | -          | -      |
-## Shear forces
-| Fr.  | $SF_{min}$ | $SF$ | $SF_{max}$ | Status |
+## Max shear forces
+| X    | $SF_{min}$ | $SF$ | $SF_{max}$ | Status |
 | ---- | ---------- | ---- | ---------- | ------ |
 | ---- | --------   | -    | -          | -      |
 | ---- | --------   | -    | -          | -      |
