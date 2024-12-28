@@ -2,8 +2,8 @@
 | Parameter           | Value                                                                          |
 | ------------------- | ------------------------------------------------------------------------------ |
 | Name                | BoardTrix                                                                      |
-| Version             | 1.0.0                                                                          |
-| Version date        | ??                                                                             |
+| Version             | 0.9.0                                                                          |
+| Version date        | 28.12.2024                                                                     |
 | Developer           | S&A Lab LLC                                                                    |
 | Developer's address | 192007, St. Petersburg, Ligovsky Prospekt, 150 litera A, office 612, room 27n. |
 | Developer's website | sa-lab.dev                                                                     |
