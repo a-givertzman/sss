@@ -31,7 +31,6 @@ Suggestion of the struct
 └── ...
 ```
 
-
 ```text
 .
 assets/
